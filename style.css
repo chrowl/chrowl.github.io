@@ -76,5 +76,5 @@ p.lead{
 }
 
 @media (max-width: 480px) {
-    .caption{margin-top: -320px;}
+    .caption{margin-top: -230px;}
 }
